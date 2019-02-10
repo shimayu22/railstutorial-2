@@ -74,3 +74,6 @@ Railsのコントローラは必ずApplicationControllerを継承しているの
 Applicationコントローラで定義したルールは、
 アプリケーションのすべてのアクションに反映されます。
 
+2.5
+リスト 1.15: クラウドIDE上でHerokuをインストールするコマンド
+$ source <(curl -sL https://cdn.learnenough.com/heroku_install)
